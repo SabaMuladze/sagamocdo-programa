@@ -8,11 +8,59 @@
     ]
 },
 {
-    "author":"შოთა რუსთაველი",
+    "author":"იაკობ ხუცესი",
     "writings":[
         {
-            "ვეფხისტყაოსანი":"http://www.nplg.gov.ge/ebooks/authors/shota_rustaveli/vefxistyaosani.pdf"
+            "შუშანიკის წამება":"https://wikisource.org/wiki/%E1%83%A8%E1%83%A3%E1%83%A8%E1%83%90%E1%83%9C%E1%83%98%E1%83%99%E1%83%98%E1%83%A1_%E1%83%AC%E1%83%90%E1%83%9B%E1%83%94%E1%83%91%E1%83%90"
         }
+    ]
+},
+{
+    "author":"იოანე საბანისძე",
+    "writings":[
+        {
+            "აბო თბილელის წამება":"http://library.church.ge/index.php?option=com_content&id=448:2011"
+        }
+    ]
+},
+{
+    "author":"სულხან-საბა ორბელიანი",
+    "writings":[
+        {
+            "სიბრძნე-სიცრუისა":"https://burusi.wordpress.com/wp-content/uploads/2014/03/sibrzne-sicruisa.pdf"
+        }
+    ]
+},
+{
+    "author":"დავით გურამიშვილი",
+    "writings":[
+        {
+            "დავითიანი":"http://www.nplg.gov.ge/ebooks/authors/david_guramishvili/davitian.pdf"
+        }
+    ]
+},
+{
+    "author":"ალექსანდრე ჭავჭავაძე",
+    "writings":[
+        {
+            "დავითიანი":"http://www.nplg.gov.ge/civil/statiebi/saskolo/gogCa.htm"
+        }
+    ]
+},
+{
+    "author":"გრიგოლ ორბელიანი",
+    "writings":[
+        {
+            "თამარ მეფის სახე ბეთანიის ეკლესიაში":"http://www.nplg.gov.ge/civil/statiebi/saskolo/tamarmefissaxe.htm"
+            
+        },
+        {
+            "საღამო გამოსალმებისა":"http://www.nplg.gov.ge/civil/statiebi/saskolo/saRamo_gamosalmebisa.htm"
+        },
+        {
+            "პასუხი შვილთა":"http://www.nplg.gov.ge/civil/statiebi/saskolo/pasuxi_SvilTa.htm"
+        }
+
     ]
 }
 ]
